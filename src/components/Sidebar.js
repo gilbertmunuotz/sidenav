@@ -4,9 +4,20 @@ function Sidebar() {
 
     const menuItem = [
         {
-            path:"/",
-            name:
-        }
+            path: "/",
+            name: "name",
+            icon:<Fatch/>
+        },
+        {
+            path: "/",
+            name: "contactus",
+            icon:<FaUserAlt/>
+        },
+        {
+            path: "/",
+            name: "about",
+            icon:<FaShoppingBag/>
+        },
     ]
 
     return (
