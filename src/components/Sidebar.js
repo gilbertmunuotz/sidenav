@@ -22,8 +22,12 @@ function Sidebar() {
     ]
 
     return (
-        <div className='Sidebar'>
-            <h1>This is Sidebar</h1>
+        <div className='container'>
+            <div className="sidebar">
+                <div className="top-section">
+
+                </div>
+            </div>
         </div>
     )
 }
